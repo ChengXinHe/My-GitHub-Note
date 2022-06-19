@@ -49,7 +49,21 @@
   >`<!--   -->`
 
 * **Block and Inline element**
-  
+ >hr 水平线
+ >br 换行符
+ >div 分块
+
+* **entity code**
+  >花里胡哨的图标去网上找
+
+* **index.html**
+  >是网站的默认首页
+
+* **icon**
+  >可爱图标
+
+* **selfclosing**
+  >img br
 
 
 
