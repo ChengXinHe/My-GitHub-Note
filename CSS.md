@@ -30,7 +30,8 @@
   >h1,h2{}
 * **descendant selector**
   >div.class a{}
-* **
+* **Attribuate selector**
+  >对input这类标签进行定义
 * **
 * **
 * **
